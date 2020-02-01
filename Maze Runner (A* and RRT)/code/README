@@ -1,0 +1,9 @@
+To run the program, type:
+	python main.py
+To use RRT based, change line 14 into:
+	algorithm = 1
+To use LTRA, change line 14 into:
+	algorithm = 0
+To use different map, uncomment at lasts line in main function.
+The first few outputs will be boundary and blocks coordinate.
+There should be a online update graph pop up when you run the program. 
