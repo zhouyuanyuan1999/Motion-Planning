@@ -10,4 +10,4 @@
 
 ## Report 
 Screens Shot from report.ipynb
-![Alt text](./report.png)
+![Alt text](./data/report.png)
