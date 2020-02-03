@@ -1,0 +1,7 @@
+    All Hyper-parameters are inside main function.
+    For testing, in main function, change to: planner._td_policy_itr(False)
+    For SARSA, run:
+        python SARSA.py
+    For off-policy, run:
+        python Off_policy_TD_Q.py
+        

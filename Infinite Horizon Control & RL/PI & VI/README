@@ -1,0 +1,5 @@
+    All Hyper-parameters are in init function inside the class
+    For Value Iteration, run:
+        python VI.py
+    For Policy Iteration, run:
+        python PI.py
