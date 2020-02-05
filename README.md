@@ -2,12 +2,11 @@
 
 ## Table of Contents
 
-* [Dynamic Programming (Rock-Paper-Scissors)](./Dynamic%20Programming)
-* [A* and RRT (Maze Runer)](./Maze%20Runner%20(A*%20and%20RRT))
+* [Dynamic Programming (Rock-Paper-Scissors)](https://github.com/zhouyuanyuan1999/Motion-Planning#rock-paper-scissors)
+* [A* and RRT (Maze Runer)](https://github.com/zhouyuanyuan1999/Motion-Planning#maze-runner)
 * [Infinite Horizon Control & RL](./Infinite%20Horizon%20Control%20&%20RL/)
-  * [on&off TD policy by Q learning (Hill Climbing)](./Infinite%20Horizon%20Control%20&%20RL/on&off%20TD%20policy%20by%20Q%20learning) 
-  * [PI & VI (Balance Inverted Pendulum)](./Infinite%20Horizon%20Control%20&%20RL/PI%20&%20VI/)
-  
+  * [on&off TD policy by Q learning (Hill Climbing)](https://github.com/zhouyuanyuan1999/Motion-Planning/blob/master/README.md#hill-climbing) 
+  * [PI & VI (Balance Inverted Pendulum)](https://github.com/zhouyuanyuan1999/Motion-Planning#balance-inverted-pendulum)
 
 ## Rock-Paper-Scissors
 ### Problem
